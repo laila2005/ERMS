@@ -1,0 +1,17 @@
+[
+  {
+    "id": 101,
+    "name": "Mariam Omar",
+    "specialty": "Neurology"
+  },
+  {
+    "id": 102,
+    "name": "Ahmed Hassan",
+    "specialty": "Cardiology"
+  },
+  {
+    "id": 103,
+    "name": "Sara Ali",
+    "specialty": "General Surgery"
+  }
+]

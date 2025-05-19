@@ -1,0 +1,3 @@
+/home/laila_2005/ERMS/build/CMakeFiles/erms.dir
+/home/laila_2005/ERMS/build/CMakeFiles/edit_cache.dir
+/home/laila_2005/ERMS/build/CMakeFiles/rebuild_cache.dir

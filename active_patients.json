@@ -1,0 +1,14 @@
+[
+  {
+    "arrivalTime": 2,
+    "id": 3,
+    "name": "Laila Mohamed",
+    "severity": 5
+  },
+  {
+    "arrivalTime": 0,
+    "id": 1,
+    "name": "Eslam Mohamed",
+    "severity": 4
+  }
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/erms.dir/src/ERMS.cpp.o CMakeFiles/erms.dir/src/main.cpp.o CMakeFiles/erms.dir/src/Storage.cpp.o CMakeFiles/erms.dir/src/Stats.cpp.o -o erms 
